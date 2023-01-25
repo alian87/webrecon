@@ -1,0 +1,10 @@
+index
+login
+home
+contato
+cadastro
+acesso
+admin
+usuario
+robots.txt
+sitemap.xml
