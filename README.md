@@ -1,2 +1,2 @@
 # webrecon
-Descobrindo diretórios e arquivos por bruteforce
+Descobrindo diretórios e arquivos por brutforce
